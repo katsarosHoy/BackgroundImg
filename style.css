@@ -25,10 +25,11 @@ body{
     height: 20px;}
 
 .Textos{
+    padding-left: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
     text-align: center;
     list-style: none;
     font-size: 2em;}
@@ -49,5 +50,6 @@ body{
     cursor: pointer;}
 
 .Redes{
+    padding-left: 300px;
     display: flex;
     justify-content: right;}

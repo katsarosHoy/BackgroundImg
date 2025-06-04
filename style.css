@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: 2px solid red;}
+
+body{
+    background-image: url(img/desktop-hd-de-1366x768-1366-x-768-7qznhta587xi9l7k.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;}
+
+.Titulo{
+    padding-left: 43vw;
+    padding-top: 45vh;
+    text-align: center;
+    font-size: 6rem;
+    position: absolute;
+    color: white;}
+
+.Logo{
+    width: 20px;
+    height: 20px;}
+
+.Textos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    list-style: none;
+    font-size: 2em;}
+
+.Oloko {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;}
+
+.Separado {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;}
+
+.Butaos2 {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;}
+
+.Redes{
+    display: flex;
+    justify-content: right;
+    }
